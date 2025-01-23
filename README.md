@@ -5,9 +5,10 @@
 <!-- Profile Views -->
 <p align="left">
   <a href="https://github.com/codewithdee-073">
-    <img src="https://komarev.com/ghpvc/?username=codewithdee-073&label=Profile%20views&color=800000&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=codewithdee-073&label=Profile%20views&color=000000&style=flat" alt="Profile Views" style="border: 2px solid #444; border-radius: 10px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);" />
   </a>
 </p>
+
 
 <!-- About Me Section -->
 <p align="left">
