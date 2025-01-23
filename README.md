@@ -1,6 +1,12 @@
 <h1 align="center">Hello there👋, I'm Deepti Ranjan Sahoo</h1>
 <h3 align="center">A Passionate Coder from India Exploring the World of Software Development</h3>
 
+<p align="left">
+  <a href="https://github.com/codewithdee-073">
+    <img src="https://komarev.com/ghpvc/?username=codewithdee-073&label=Profile%20views&color=0e75b6&style=flat" alt="codewithdee-073" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on exciting projects at CipherByte Technologies: **Tic Tac Toe Game and Digital Calculator (both using C++ as part of my current internship)**
 
 - 🌱 I’m currently gaining: **Practical skills through my C++ internship, while focusing on mastering core Java for future career growth.**
@@ -35,4 +41,3 @@
 <a href="https://twitter.com/dee_sahoo05" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://linkedin.com/in/deeptiranjansahoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:deeranjansahoo2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
