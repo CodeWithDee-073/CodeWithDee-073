@@ -36,8 +36,22 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-
 ### Connect with me:
 <a href="https://twitter.com/dee_sahoo05" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://linkedin.com/in/deeptiranjansahoo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:deeranjansahoo2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdee-073&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdee-073&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
