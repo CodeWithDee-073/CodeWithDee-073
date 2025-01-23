@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Deepti Ranjan Sahoo</h1>
-<h3 align="center">A Passionate Coder Exploring the World of Software Development</h3>
+<h1 align="center">Hello there👋, I'm Deepti Ranjan Sahoo</h1>
+<h3 align="center">A Passionate Coder from India Exploring the World of Software Development</h3>
 
 - 🔭 I’m currently working on exciting projects at CipherByte Technologies: **Tic Tac Toe Game and Digital Calculator (both using C++ as part of my current internship)**
 
