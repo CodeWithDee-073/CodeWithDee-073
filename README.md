@@ -52,8 +52,8 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=codewithdee-073&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdee-073&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=codewithdee-073&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdee-073&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Top Skills Section -->
