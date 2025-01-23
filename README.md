@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/codewithdee-073">
-    <img src="https://komarev.com/ghpvc/?username=codewithdee-073&label=Profile%20views&color=0e75b6&style=flat" alt="codewithdee-073" />
+    <img src="https://komarev.com/ghpvc/?username=codewithdee-073&label=Profile%20views&color=red&style=flat" alt="codewithdee-073" />
   </a>
 </p>
 
