@@ -1,6 +1,6 @@
 <!-- Heading Section -->
-<h1 align="center">Hello there 👋, I'm Deepti Ranjan Sahoo</h1>
-<h3 align="center">A Passionate Coder from India Exploring the World of Software Development</h3>
+<h1 align="center">Hello there👋, I'm Deepti Ranjan Sahoo</h1>
+<h3 align="center">A Passionate Coder Exploring the World of Software Development</h3>
 
 <!-- Profile Views -->
 <p align="left">
