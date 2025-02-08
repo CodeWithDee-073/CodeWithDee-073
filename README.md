@@ -22,7 +22,7 @@
 
 <p align="left">
 - 👯 I’m looking to collaborate on:  
-  <strong>C++ coding projects, exploring Java, and maybe some game development!</strong>
+  <strong>C++ coding projects, exploring Java and maybe some game development!</strong>
 </p>
 
 <p align="left">
