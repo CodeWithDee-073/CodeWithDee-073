@@ -27,7 +27,7 @@
 
 <p align="left">
 - 🤝 I’m looking for help with:  
-  <strong>Improving C++ skills, understanding advanced Java concepts, and working on larger-scale projects.</strong>
+  <strong>Improving C++ skills, understanding advanced Java concepts and working on larger-scale projects.</strong>
 </p>
 
 <p align="left">
@@ -37,7 +37,7 @@
 
 <p align="left">
 - 💬 Feel free to ask me about:  
-  <strong>Getting started with C++ and Java, or tips for learning programming more effectively.</strong>
+  <strong>Getting started with C++ and Java or tips for learning programming more effectively.</strong>
 </p>
 
 <p align="left">
