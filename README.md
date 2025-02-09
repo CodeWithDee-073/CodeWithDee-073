@@ -31,10 +31,6 @@
   <a href="https://github.com/CodeWithDee-073">https://github.com/CodeWithDee-073</a>
 </p>
 
-<p align="left">
-- 💬 Feel free to ask me about:  
-  <strong>Getting started with C++ and Java or tips for learning programming more effectively.</strong>
-</p>
 
 <p align="left">
 - 📫 Get in touch with me on LinkedIn or email:  
