@@ -35,11 +35,6 @@
   <a href="https://github.com/CodeWithDee-073">https://github.com/CodeWithDee-073</a>
 </p>
 
-<p align="left">
-- 📫 Get in touch with me on LinkedIn or email:  
-  <a href="https://www.linkedin.com/in/deeptiranjansahoo/">LinkedIn</a> | <a href="mailto:deeranjansahoo2005@gmail.com">Gmail</a>
-</p>
-
 <!-- GitHub Stats Section -->
 <div align="center">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=codewithdee-073&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="188" alt="Stats Graph" />
