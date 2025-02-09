@@ -10,10 +10,6 @@
 </p>
 
 <!-- About Me Section -->
-<p align="left">
-- 🔭 I’m currently working on exciting projects at CipherByte Technologies:  
-  <strong>Tic Tac Toe Game and Digital Calculator (both using C++ as part of my current internship)</strong>
-</p>
 
 <p align="left">
 - 🌱 I’m currently learning:  
