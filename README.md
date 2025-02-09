@@ -10,15 +10,9 @@
 </p>
 
 <!-- About Me Section -->
-
 <p align="left">
 - 🌱 I’m currently learning:  
   <strong>Java concepts and exploring core Java in-depth for future career growth.</strong>
-</p>
-
-<p align="left">
-- 👯 I’m looking to collaborate on:  
-  <strong>Open-source Java projects to contribute and learn.</strong>
 </p>
 
 <p align="left">
@@ -27,19 +21,23 @@
 </p>
 
 <p align="left">
-- 👨‍💻 Check out all my projects on GitHub:  
-  <a href="https://github.com/CodeWithDee-073">https://github.com/CodeWithDee-073</a>
-</p>
-
-
-<p align="left">
-- 📫 Get in touch with me on LinkedIn or email:  
-  <a href="https://www.linkedin.com/in/deeptiranjansahoo/">LinkedIn</a> | <a href="mailto:deeranjansahoo2005@gmail.com">Gmail</a>
+- 👯 I’m looking to collaborate on:  
+  <strong>Open-source Java projects to contribute and learn.</strong>
 </p>
 
 <p align="left">
 - ⚡ Interests:  
-  <strong>Photography, entertainment, and tech trends.</strong>
+  <strong>Photography, Entertainment, and Tech trends.</strong>
+</p>
+
+<p align="left">
+- 👨‍💻 Check out all my projects on GitHub:  
+  <a href="https://github.com/CodeWithDee-073">https://github.com/CodeWithDee-073</a>
+</p>
+
+<p align="left">
+- 📫 Get in touch with me on LinkedIn or email:  
+  <a href="https://www.linkedin.com/in/deeptiranjansahoo/">LinkedIn</a> | <a href="mailto:deeranjansahoo2005@gmail.com">Gmail</a>
 </p>
 
 <!-- GitHub Stats Section -->
