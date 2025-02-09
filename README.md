@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-- 🌱 I’m currently gaining:  
+- 🌱 I’m currently learning:  
   <strong>Java concepts and exploring core Java in-depth for future career growth.</strong>
 </p>
 
