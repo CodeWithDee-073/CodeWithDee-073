@@ -17,7 +17,7 @@
 
 <p align="left">
 - 🌱 I’m currently gaining:  
-  <strong>Practical skills through my C++ internship, while focusing on mastering core Java for future career growth.</strong>
+  <strong>Java concepts and exploring core Java in-depth for future career growth.</strong>
 </p>
 
 <p align="left">
