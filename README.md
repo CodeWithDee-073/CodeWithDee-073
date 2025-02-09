@@ -17,7 +17,7 @@
 
 <p align="left">
 - 🤝 I’m looking for help with:  
-  <strong>Improving problem-solving skills, mastering Java, and contributing to open-source projects.</strong>
+  <strong>Improving problem-solving skills, mastering Java and contributing to open-source projects.</strong>
 </p>
 
 <p align="left">
@@ -27,7 +27,7 @@
 
 <p align="left">
 - ⚡ Interests:  
-  <strong>Photography, Entertainment, and Tech trends.</strong>
+  <strong>Photography, Entertainment and Tech trends.</strong>
 </p>
 
 <p align="left">
