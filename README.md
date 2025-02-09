@@ -27,7 +27,7 @@
 
 <p align="left">
 - 🤝 I’m looking for help with:  
-  <strong>Improving C++ skills, understanding advanced Java concepts and working on larger-scale projects.</strong>
+  <strong>Improving problem-solving skills, mastering Java, and contributing to open-source projects.</strong>
 </p>
 
 <p align="left">
